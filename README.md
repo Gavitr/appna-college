@@ -1,2 +1,2 @@
 # appna-college
-this is demo for apna college
+this is demo for apna college.
